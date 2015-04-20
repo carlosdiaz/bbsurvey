@@ -1,0 +1,1 @@
+Aplicación nativa para BB que permite la creación de encuestas.
